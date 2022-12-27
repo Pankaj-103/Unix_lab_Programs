@@ -1,0 +1,11 @@
+#!/bin/sh
+
+echo "enter number 1"
+read m
+echo "enter number 2"
+read n
+
+while [ $n -ne 0 ]
+do
+m=
+
